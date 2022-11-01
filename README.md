@@ -8,6 +8,9 @@
 
 <br>
 
+𓂃𓂃𓂃𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃
+ 𓆉          𓆟         𓇼   𓆞  𓂂        𓆝    𓂂         𓆡    𓂂       𓆝              𓆟     𓂂 𓆟         𓇼   𓆞
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=verlnn&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
