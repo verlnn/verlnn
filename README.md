@@ -8,6 +8,8 @@
 
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=verlnn&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=RealMinsu&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
