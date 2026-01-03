@@ -1,5 +1,6 @@
 # KIM MIN SOO 😉
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3fb1c59f-54a1-4629-b7f0-bc20bbd458d2/deploy-status)](https://app.netlify.com/projects/verlnn-portfolio-v2/deploys)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wtf2327)](https://solved.ac/rlatngus1691/)
 # 💪 Skills
