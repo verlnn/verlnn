@@ -1,5 +1,7 @@
 # KIM MIN SOO 😉
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/verlnn?theme=unicorn)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wtf2327)](https://solved.ac/rlatngus1691/)
 # 💪 Skills
 
